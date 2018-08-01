@@ -1,0 +1,22 @@
+{
+  "name": "react-tutorial",
+  "version": "1.0.0",
+  "description": "The starter code (https://codepen.io/gaearon/pen/oWWQNa?editors=0010) from the official React tutorial (https://reactjs.org/tutorial/tutorial.html) as a Sandbox for the freeCodeCamp Nashville Meetup.",
+  "keywords": [
+    "freecodecamp",
+    "react"
+  ],
+  "main": "src/Game.js",
+  "dependencies": {
+    "react": "16.4.1",
+    "react-dom": "16.4.1",
+    "react-scripts": "1.1.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
